@@ -1,0 +1,16 @@
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\Abstraction.exe
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\Abstraction.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache
